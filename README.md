@@ -7,8 +7,13 @@ In this project, I leveraged my technical expertise and social media management 
 
 Project details:
 
-NFT production and blockchain integration
-Development of a website for NFT purchases
-Community management and growth on Discord and Twitter
-Reward and privilege systems for community members
-I am proud to have brought this project to life, starting a new era in the NFT world with Main!
+- NFT production and blockchain integration
+
+- Development of a website for NFT purchases
+
+- Community management and growth on Discord and Twitter
+
+- Reward and privilege systems for community members
+
+- I am proud to have brought this project to life, starting a new era in the NFT world with Main!
+
